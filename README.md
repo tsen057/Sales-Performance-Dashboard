@@ -65,8 +65,6 @@ pip install pandas numpy matplotlib sqlite3
 
 ---
 
----
-
 ## 🚀 Future Improvements
 - Implement real-time data updates using a live database.
 - Integrate advanced analytics for predictive modeling.
@@ -74,5 +72,4 @@ pip install pandas numpy matplotlib sqlite3
 
 ---
 
-## 📩 Contact
-For queries or collaboration, reach out to **[Your Name](mailto:your-e
+
