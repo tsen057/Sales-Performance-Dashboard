@@ -65,18 +65,6 @@ pip install pandas numpy matplotlib sqlite3
 
 ---
 
-## 📁 Folder Structure
-```
-├── data
-│   └── sales_data.xlsx
-├── scripts
-│   └── data_preprocessing.py
-│   └── sql_queries.sql
-├── PowerBI
-│   └── sales_dashboard.pbix
-├── README.md
-```
-
 ---
 
 ## 🚀 Future Improvements
